@@ -1,0 +1,6 @@
+{
+  "name": "Inherit",
+  "tree": {
+    "$path": "src"
+  }
+}
